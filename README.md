@@ -1,7 +1,7 @@
-![MasterHead](https://meridian.info/images/web-dev/banner.jpg)
+![MasterHead](https://goodrequest-web-development.s3.eu-central-1.amazonaws.com/61f40dff3df1e45b60cbfd70_Ako_20zac_CC_8_Cat_CC_8_C_20s_20_Frontend_20vy_CC_81vojom_6c2a50b19d.jpg)
 <h1 align="center">Hi 👋, I'm Alibek</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTENqHmmRXf4eKZsLmSx2E-4odiXy5fLxiLfw&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimahsim&label=Profile%20views&color=0e75b6&style=flat" alt="alimahsim" /> </p>

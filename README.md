@@ -1,4 +1,4 @@
-![web dev](https://github.com/alimahsim/alimahsim/assets/87475616/c191e85a-09fe-4320-94d7-7a8dc3536cd9)
+![be](https://github.com/alimahsim/alimahsim/assets/87475616/156acaed-7c55-4be5-8c86-f21284332ec5)
 <h1 align="center">Hi 👋, I'm Alibek</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">

@@ -1,4 +1,4 @@
-![MasterHead](https://goodrequest-web-development.s3.eu-central-1.amazonaws.com/61f40dff3df1e45b60cbfd70_Ako_20zac_CC_8_Cat_CC_8_C_20s_20_Frontend_20vy_CC_81vojom_6c2a50b19d.jpg)
+![MasterHead](https://t3.ftcdn.net/jpg/03/18/60/62/240_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg)
 <h1 align="center">Hi 👋, I'm Alibek</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">

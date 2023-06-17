@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/@alibeknx" target="blank"><img src="https://img.shields.io/twitter/follow/@alibeknx?logo=twitter&style=for-the-badge" alt="@alibeknx" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Redux**
 
 - 📫 How to reach me **alimahsim@gmail.com**
 

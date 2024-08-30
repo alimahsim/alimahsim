@@ -1,7 +1,7 @@
 ![be-new](https://github.com/alimahsim/alimahsim/assets/87475616/f459a64c-2486-4d89-8675-62ceb32a6888)
 <h1 align="center">Hi 👋, I'm Alibek</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimahsim&label=Profile%20views&color=0e75b6&style=flat" alt="alimahsim" /> </p>
